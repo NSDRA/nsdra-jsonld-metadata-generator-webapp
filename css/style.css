@@ -1,0 +1,65 @@
+.panel {
+  display:block;
+  height:278px;
+}
+
+.jsonld-gen-form {
+  margin-top:-100px;
+}
+
+.small-text {
+  font-size:12px;
+}
+
+#switches{
+  padding-bottom: 30px;
+}
+
+.pchem{
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron{
+  height: 1100px;
+}
+
+.intro-panel{
+  color: #fff;
+}
+
+.intro-text{
+  margin-top: 50px;
+}
+
+#generated-jsonld{
+  overflow: scroll;
+  height: 900px;
+  overflow-y: scroll
+}
+
+textarea::-webkit-scrollbar {
+  width: 12px;
+  background-color: #F5F5F5;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  background-color: #4285F4;
+}
+
+#mi-holder{
+    overflow-y: scroll;
+    max-height: 770px;
+}
+
+#reset-holder{
+    margin-top: 20px;
+}
+
+#mi-list-select,
+#mi-list-select option{
+    width: 450px;
+}
