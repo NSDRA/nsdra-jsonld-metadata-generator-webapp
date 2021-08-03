@@ -1,6 +1,6 @@
 # NanoSafety Data Reusability Assessment JSON-LD Metadata Generator
 
-![GitHub top language](https://img.shields.io/github/languages/top/ammar257ammar/nsdra-jsonld-metadata-generator-webapp) ![Lines of code](https://img.shields.io/tokei/lines/github/ammar257ammar/nsdra-jsonld-metadata-generator-webapp) ![GitHub](https://img.shields.io/github/license/ammar257ammar/nsdra-jsonld-metadata-generator-webapp) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ammar257ammar/nsdra-jsonld-metadata-generator-webapp)
+![GitHub top language](https://img.shields.io/github/languages/top/ammar257ammar/nsdra-jsonld-metadata-generator-webapp) ![Lines of code](https://img.shields.io/tokei/lines/github/ammar257ammar/nsdra-jsonld-metadata-generator-webapp) ![GitHub](https://img.shields.io/github/license/ammar257ammar/nsdra-jsonld-metadata-generator-webapp) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ammar257ammar/nsdra-jsonld-metadata-generator-webapp) [![DOI](https://zenodo.org/badge/363756160.svg)](https://zenodo.org/badge/latestdoi/363756160)
 
 This repository provides a front-end javascript-based web application which aims at generating JSON-LD metadata complying with the community standards maturity indicators (MIs) in the nanosafety domain for data reusability purposes.
 
