@@ -39,7 +39,7 @@ function updateChangeListeners(){
     });
 }
 
-async function fetchText() {
+async function fetchTextAsDropdown() {
 
     let response = await fetch("lists.json");
     lists = await response.json();
@@ -71,8 +71,11 @@ async function fetchText() {
 			<div class="col-md-12">
 				<div class="custom-control custom-switch">
 					<input type="checkbox" class="custom-control-input" id="`+hash+`-name">
-					<label class="custom-control-label" for="`+hash+`-name"><strong>`+miList[i].name+`</strong></label>
-				</div>
+					<label class="custom-control-label" for="`+hash+`-name">
+                        <strong>`+miList[i].name+`</strong>
+                        <a href="`+miList[i].url+`" target="_blank"><i class="fas fa-info-circle"></i></a>
+                    </label>
+                </div>
 			</div>
 		</div>
         `;
@@ -81,14 +84,103 @@ async function fetchText() {
     updateChangeListeners();
 }
 
-fetchText();
+function updateClickListeners(){
 
-/*
-fetch("lists.json")
-    .then(response => response.json())
-    .then(json => lists = json);
-    .then(json => miList = json.lists[0]["maturity indicators"] )
-*/
+    var linksList = document.getElementsByClassName('list-group-item-action');
+
+    for(var i = 0; i < linksList.length; i++) {
+
+        linksList[i].onclick = function () {
+
+            miList = lists.lists[this.dataset.index]["maturity indicators"];
+
+            miMap = new Map();
+
+            var switches = document.getElementById("switches");
+
+            switches.innerHTML = "";
+
+            jsonObj.variableMeasured = [];
+            jsonldTextArea.value = JSON.stringify(jsonObj,null, "\t");
+
+            for(i = 0 ; i < miList.length; i++){
+
+                var hash = murmurhash3_32_gc(miList[i].variable,seed);
+                switches.innerHTML = switches.innerHTML +
+                `
+                <div class="row pchem">
+        			<div class="col-md-12">
+        				<div class="custom-control custom-switch">
+        					<input type="checkbox" class="custom-control-input" id="`+hash+`-name">
+        					<label class="custom-control-label" for="`+hash+`-name">
+                                <strong>`+miList[i].name+`</strong>
+                                <a href="`+miList[i].url+`" target="_blank"><i class="fas fa-info-circle"></i></a>
+                            </label>
+                        </div>
+        			</div>
+        		</div>
+                `;
+               miMap.set(hash+'-name',miList[i].variable);
+            }
+            updateChangeListeners();
+
+            document.getElementById("mi-list-title").innerHTML = lists.lists[this.dataset.index].title;
+            document.getElementById("choose-list").classList.add('hidden');
+            document.getElementById("metadata-form").classList.remove('hidden');
+        }
+    }
+}
+
+async function fetchTextAsList() {
+
+    let response = await fetch("lists.json");
+    lists = await response.json();
+    miList = lists.lists[0]["maturity indicators"];
+
+    var switches = document.getElementById("switches");
+
+    var listsDropdown = document.getElementById("mi-list-group");
+
+    for(i = 0; i < lists.lists.length; i++){
+
+        var opt = document.createElement('a');
+        opt.href = "#";
+        opt.title = lists.lists[i].title;
+        opt.classList.add("list-group-item");
+        opt.classList.add("list-group-item-action");
+        opt.dataset.index = i;
+
+        var optText = document.createTextNode('> ' + lists.lists[i].title);
+
+        opt.appendChild(optText);
+
+        listsDropdown.appendChild(opt);
+    }
+
+    for(i = 0 ; i < miList.length; i++){
+
+        var hash = murmurhash3_32_gc(miList[i].variable,seed);
+        switches.innerHTML = switches.innerHTML +
+        `
+        <div class="row pchem">
+			<div class="col-md-12">
+				<div class="custom-control custom-switch">
+					<input type="checkbox" class="custom-control-input" id="`+hash+`-name">
+					<label class="custom-control-label" for="`+hash+`-name">
+                        <strong>`+miList[i].name+`</strong>
+                        <a href="`+miList[i].url+`" target="_blank"><i class="fas fa-info-circle"></i></a>
+                    </label>
+				</div>
+			</div>
+		</div>
+        `;
+       miMap.set(hash+'-name',miList[i].variable);
+    }
+    updateChangeListeners();
+    updateClickListeners();
+}
+
+fetchTextAsList();
 
 var json = `
 {
@@ -151,34 +243,8 @@ document.getElementById("resetForm").addEventListener('click', function (event) 
     jsonObj = JSON.parse(json);
 });
 
-document.getElementById("mi-list-select").addEventListener('change', function() {
-
-    miList = lists.lists[this.selectedIndex]["maturity indicators"];
-
-    miMap = new Map();
-
-    var switches = document.getElementById("switches");
-
-    switches.innerHTML = "";
-
-    jsonObj.variableMeasured = [];
-    jsonldTextArea.value = JSON.stringify(jsonObj,null, "\t");
-
-    for(i = 0 ; i < miList.length; i++){
-
-        var hash = murmurhash3_32_gc(miList[i].variable,seed);
-        switches.innerHTML = switches.innerHTML +
-        `
-        <div class="row pchem">
-			<div class="col-md-12">
-				<div class="custom-control custom-switch">
-					<input type="checkbox" class="custom-control-input" id="`+hash+`-name">
-					<label class="custom-control-label" for="`+hash+`-name"><strong>`+miList[i].name+`</strong></label>
-				</div>
-			</div>
-		</div>
-        `;
-       miMap.set(hash+'-name',miList[i].variable);
-    }
-    updateChangeListeners();
+document.getElementById("changeList").addEventListener('click', function (event) {
+    event.preventDefault();
+    document.getElementById("choose-list").classList.remove('hidden');
+    document.getElementById("metadata-form").classList.add('hidden');
 });

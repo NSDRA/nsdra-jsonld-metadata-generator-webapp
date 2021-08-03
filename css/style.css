@@ -63,3 +63,28 @@ textarea::-webkit-scrollbar-thumb {
 #mi-list-select option{
     width: 450px;
 }
+
+.hidden{
+    display: none;
+}
+
+#mi-list-group a{
+    font-size: 1.2rem !important;
+}
+
+#mi-list-group-title{
+    text-align: center;
+    color: #fff;
+    padding: 1.2rem;
+}
+
+#choose-list{
+    margin-bottom: 100px;
+}
+
+#mi-list-title{
+    text-align: center;
+    color: #fff;
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
