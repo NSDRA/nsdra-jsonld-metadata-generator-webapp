@@ -189,7 +189,7 @@ var json = `
 	"schema": "https://schema.org/",
 	"citation": "schema:citation",
 	"name": "schema:name",
-	"url": "schema:name",
+	"url": "schema:url",
 	"variableMeasured": "schema:variableMeasured"
   },
   "@type": "schema:Dataset"
