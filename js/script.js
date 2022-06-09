@@ -1,5 +1,6 @@
 var lists = "";
 var miList = "";
+var miMapping = "";
 var miMap = new Map();
 var seed = "12345";
 
@@ -39,51 +40,6 @@ function updateChangeListeners(){
     });
 }
 
-async function fetchTextAsDropdown() {
-
-    let response = await fetch("lists.json");
-    lists = await response.json();
-    miList = lists.lists[0]["maturity indicators"];
-
-    var switches = document.getElementById("switches");
-
-    var listsDropdown = document.getElementById("mi-list-select");
-
-    for(i = 0; i < lists.lists.length; i++){
-
-        var opt = document.createElement('option');
-        opt.value = lists.lists[i].id;
-
-        if(i == 0){
-            opt.selected = "selected";
-        }
-
-        opt.innerHTML = lists.lists[i].title;
-        listsDropdown.appendChild(opt);
-    }
-
-    for(i = 0 ; i < miList.length; i++){
-
-        var hash = murmurhash3_32_gc(miList[i].variable,seed);
-        switches.innerHTML = switches.innerHTML +
-        `
-        <div class="row pchem">
-			<div class="col-md-12">
-				<div class="custom-control custom-switch">
-					<input type="checkbox" class="custom-control-input" id="`+hash+`-name">
-					<label class="custom-control-label" for="`+hash+`-name">
-                        <strong>`+miList[i].name+`</strong>
-                        <a href="`+miList[i].url+`" target="_blank"><i class="fas fa-info-circle"></i></a>
-                    </label>
-                </div>
-			</div>
-		</div>
-        `;
-       miMap.set(hash+'-name',miList[i].variable);
-    }
-    updateChangeListeners();
-}
-
 function updateClickListeners(){
 
     var linksList = document.getElementsByClassName('list-group-item-action');
@@ -121,6 +77,26 @@ function updateClickListeners(){
         		</div>
                 `;
                miMap.set(hash+'-name',miList[i].variable);
+            }
+			
+            for(i = 0 ; i < miMapping.length; i++){
+                var hash = murmurhash3_32_gc(miMapping[i].variable,seed);
+
+                genericSwitches.innerHTML = genericSwitches.innerHTML +
+                `
+                <div class="row pchem">
+        			<div class="col-md-12">
+        				<div class="custom-control custom-switch">
+        					<input type="checkbox" class="custom-control-input" id="`+hash+`-name">
+        					<label class="custom-control-label" for="`+hash+`-name">
+                                <strong>`+miMapping[i].name+`</strong>
+                                <a href="`+miMapping[i].url+`" target="_blank"><i class="fas fa-info-circle"></i></a>
+                            </label>
+        				</div>
+        			</div>
+        		</div>
+                `;
+                miMap.set(hash+'-name',miMapping[i].variable);
             }
             updateChangeListeners();
 
@@ -176,10 +152,14 @@ async function fetchTextAsList() {
         `;
        miMap.set(hash+'-name',miList[i].variable);
     }
-    updateChangeListeners();
+	
+	let mappingResponse = await fetch("mapping.json");
+    mapping = await mappingResponse.json();
+    miMapping = mapping.lists[0]["maturity indicators"];
+	
+	updateChangeListeners();
     updateClickListeners();
 }
-
 fetchTextAsList();
 
 var json = `
