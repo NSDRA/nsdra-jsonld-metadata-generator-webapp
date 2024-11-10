@@ -4,10 +4,10 @@
 	 "maturity indicators": [
 		{
 			"name": "chemical composition",
-			"variable": "MI-R1.3-ABSTRACT-BASIC-CHEMICAL_COMPOSITION",
+			"variable": "MI-R1.3-GENERIC-BASIC-CHEMICAL_COMPOSITION",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"group": "basic",
-			"mi_id": "MI-R1.3-ABSTRACT-BASIC-CHEMICAL_COMPOSITION",
+			"mi_id": "MI-R1.3-GENERIC-BASIC-CHEMICAL_COMPOSITION",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-INTRINSIC_CHEMICAL_COMPOSITION",
 				"MI-R1.3-649848907b-NM_COMPOSITION",
@@ -20,10 +20,10 @@
 		},
 		{
 			"name": "surface chemistry/coating/functionalization",
-			"variable": "MI-R1.3-ABSTRACT-BASIC-SURFACE_CHEMISTRY",
+			"variable": "MI-R1.3-GENERIC-BASIC-SURFACE_CHEMISTRY",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"group": "basic",
-			"mi_id": "MI-R1.3-ABSTRACT-BASIC-SURFACE_CHEMISTRY",
+			"mi_id": "MI-R1.3-GENERIC-BASIC-SURFACE_CHEMISTRY",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_COATINGS",
 				"MI-R1.3-649848907b-NM_SURFACE_FUNCTIONALIZATION",
@@ -36,8 +36,8 @@
 		{
 			"name": "purity",
 			"group": "basic",
-			"mi_id": "MI-R1.3-ABSTRACT-BASIC-PURITY",
-			"variable": "MI-R1.3-ABSTRACT-BASIC-PURITY",
+			"mi_id": "MI-R1.3-GENERIC-BASIC-PURITY",
+			"variable": "MI-R1.3-GENERIC-BASIC-PURITY",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-INTRINSIC_PURITY",
@@ -51,8 +51,8 @@
 		{
 			"name": "nanomaterial labeling/identity",
 			"group": "basic",
-			"mi_id": "MI-R1.3-ABSTRACT-BASIC-NANOMATERIAL_LABELING",
-			"variable": "MI-R1.3-ABSTRACT-BASIC-NANOMATERIAL_LABELING",
+			"mi_id": "MI-R1.3-GENERIC-BASIC-NANOMATERIAL_LABELING",
+			"variable": "MI-R1.3-GENERIC-BASIC-NANOMATERIAL_LABELING",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_IDINTITY",
@@ -63,8 +63,8 @@
 		{
 			"name": "nanomaterial source",
 			"group": "basic",
-			"mi_id": "MI-R1.3-ABSTRACT-BASIC-NANOMATERIAL_SOURCE",
-			"variable": "MI-R1.3-ABSTRACT-BASIC-NANOMATERIAL_SOURCE",
+			"mi_id": "MI-R1.3-GENERIC-BASIC-NANOMATERIAL_SOURCE",
+			"variable": "MI-R1.3-GENERIC-BASIC-NANOMATERIAL_SOURCE",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_NP_SOURCE",
@@ -75,8 +75,8 @@
 		{
 			"name": "size",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-SIZE",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-SIZE",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-SIZE",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-SIZE",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-INTRINSIC_SIZE_DISTRIBUTION",
@@ -96,8 +96,8 @@
 		{
 			"name": "shape",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-SHAPE",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-SHAPE",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-SHAPE",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-SHAPE",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-INTRINSIC_SHAPE",
@@ -112,8 +112,8 @@
 		{
 			"name": "surface area",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-SURFACE_AREA",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-SURFACE_AREA",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-SURFACE_AREA",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-SURFACE_AREA",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_AREA",
@@ -126,8 +126,8 @@
 		{
 			"name": "surface charge",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-SURFACE_CHARGE",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-SURFACE_CHARGE",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-SURFACE_CHARGE",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-SURFACE_CHARGE",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-EXTRINSIC_CHARGE",
@@ -141,8 +141,8 @@
 		{
 			"name": "zeta potential",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-ZETA_POTENTIAL",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-ZETA_POTENTIAL",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-ZETA_POTENTIAL",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-ZETA_POTENTIAL",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-EXTRINSIC_CHARGE",
@@ -152,8 +152,8 @@
 		{
 			"name": "crystallinity",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-CRYSTALLINITY",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-CRYSTALLINITY",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-CRYSTALLINITY",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-CRYSTALLINITY",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-INTRINSIC_CRYSTALLINITY",
@@ -163,8 +163,8 @@
 		{
 			"name": "solubility",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-SOLUBILITY",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-SOLUBILITY",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-SOLUBILITY",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-SOLUBILITY",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-faf3eea67a-PCHEM_SOLUBILITY",
@@ -176,8 +176,8 @@
 		{
 			"name": "stability",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-STABILITY",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-STABILITY",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-STABILITY",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-STABILITY",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-3ce932c4f9-STABILITY",
@@ -187,8 +187,8 @@
 		{
 			"name": "dispersibility",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-DISPERSIBILITY",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-DISPERSIBILITY",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-DISPERSIBILITY",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-DISPERSIBILITY",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-88b52fa7b8-PARTICLE_POLYDISPERSITY",
@@ -198,8 +198,8 @@
 		{
 			"name": "density",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-DENSITY",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-DENSITY",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-DENSITY",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-DENSITY",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-88b52fa7b8-PARTICLE_DENSITY",
@@ -210,8 +210,8 @@
 		{
 			"name": "agglomeration state",
 			"group": "physchem",
-			"mi_id": "MI-R1.3-ABSTRACT-PHYSCHEM-AGGLOMERATION_STATE",
-			"variable": "MI-R1.3-ABSTRACT-PHYSCHEM-AGGLOMERATION_STATE",
+			"mi_id": "MI-R1.3-GENERIC-PHYSCHEM-AGGLOMERATION_STATE",
+			"variable": "MI-R1.3-GENERIC-PHYSCHEM-AGGLOMERATION_STATE",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-75ec3968cc-EXTRINSIC_STATE_OF_AGGLOMERATION",
@@ -224,8 +224,8 @@
 		{
 			"name": "dose/concentration",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-CONCENTRATION",
-			"variable": "MI-R1.3-ABSTRACT-TOX-CONCENTRATION",
+			"mi_id": "MI-R1.3-GENERIC-TOX-CONCENTRATION",
+			"variable": "MI-R1.3-GENERIC-TOX-CONCENTRATION",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-649848907b-MEDIA_NM_CONCENTRATION",
@@ -241,8 +241,8 @@
 		{
 			"name": "exposure time/duration",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-EXPOSURE_TIME",
-			"variable": "MI-R1.3-ABSTRACT-TOX-EXPOSURE_TIME",
+			"mi_id": "MI-R1.3-GENERIC-TOX-EXPOSURE_TIME",
+			"variable": "MI-R1.3-GENERIC-TOX-EXPOSURE_TIME",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-88b52fa7b8-EXPERIMENT_EXPOSURE_TIME",
@@ -254,8 +254,8 @@
 		{
 			"name": "number of controls",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-NUMBER_OF_CONTROLS",
-			"variable": "MI-R1.3-ABSTRACT-TOX-NUMBER_OF_CONTROLS",
+			"mi_id": "MI-R1.3-GENERIC-TOX-NUMBER_OF_CONTROLS",
+			"variable": "MI-R1.3-GENERIC-TOX-NUMBER_OF_CONTROLS",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VV_METHODS_CONTROLS",
@@ -268,8 +268,8 @@
 		{
 			"name": "number of replicates",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-NUMBER_OF_REPLICATES",
-			"variable": "MI-R1.3-ABSTRACT-TOX-NUMBER_OF_REPLICATES",
+			"mi_id": "MI-R1.3-GENERIC-TOX-NUMBER_OF_REPLICATES",
+			"variable": "MI-R1.3-GENERIC-TOX-NUMBER_OF_REPLICATES",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-649848907b-MEASUREMENT_REPLICATES",
@@ -280,8 +280,8 @@
 		{
 			"name": "data analysis methods",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-DATA_ANALYSIS_METHODS",
-			"variable": "MI-R1.3-ABSTRACT-TOX-DATA_ANALYSIS_METHODS",
+			"mi_id": "MI-R1.3-GENERIC-TOX-DATA_ANALYSIS_METHODS",
+			"variable": "MI-R1.3-GENERIC-TOX-DATA_ANALYSIS_METHODS",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-57299b68d4-IN_VITRO_STATISTICAL_METHODS",
@@ -292,8 +292,8 @@
 		{
 			"name": "organism/species",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-ORGANISM_OR_SPECIES",
-			"variable": "MI-R1.3-ABSTRACT-TOX-ORGANISM_OR_SPECIES",
+			"mi_id": "MI-R1.3-GENERIC-TOX-ORGANISM_OR_SPECIES",
+			"variable": "MI-R1.3-GENERIC-TOX-ORGANISM_OR_SPECIES",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-324358ad68-I-COLLECTION_ORGANISMS",
@@ -304,8 +304,8 @@
 		{
 			"name": "method/route of administration",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-ROUTE_OF_ADMINISTRATION",
-			"variable": "MI-R1.3-ABSTRACT-TOX-ROUTE_OF_ADMINISTRATION",
+			"mi_id": "MI-R1.3-GENERIC-TOX-ROUTE_OF_ADMINISTRATION",
+			"variable": "MI-R1.3-GENERIC-TOX-ROUTE_OF_ADMINISTRATION",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VV_METHODS_ROA",
@@ -317,8 +317,8 @@
 		{
 			"name": "in vivo - number of test subjects",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-NUMBER_OF_TEST_SUBJECTS",
-			"variable": "MI-R1.3-ABSTRACT-TOX-NUMBER_OF_TEST_SUBJECTS",
+			"mi_id": "MI-R1.3-GENERIC-TOX-NUMBER_OF_TEST_SUBJECTS",
+			"variable": "MI-R1.3-GENERIC-TOX-NUMBER_OF_TEST_SUBJECTS",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VV_METHODS_NUM_OF_SUBJECTS",
@@ -328,8 +328,8 @@
 		{
 			"name": "in vivo - subject weight",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-SUBJECT_WEIGHT",
-			"variable": "MI-R1.3-ABSTRACT-TOX-SUBJECT_WEIGHT",
+			"mi_id": "MI-R1.3-GENERIC-TOX-SUBJECT_WEIGHT",
+			"variable": "MI-R1.3-GENERIC-TOX-SUBJECT_WEIGHT",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_BODY_WEIGHT",
@@ -339,8 +339,8 @@
 		{
 			"name": "in vivo - subject age",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-SUBJECT_AGE",
-			"variable": "MI-R1.3-ABSTRACT-TOX-SUBJECT_AGE",
+			"mi_id": "MI-R1.3-GENERIC-TOX-SUBJECT_AGE",
+			"variable": "MI-R1.3-GENERIC-TOX-SUBJECT_AGE",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_AGE",
@@ -350,8 +350,8 @@
 		{
 			"name": "in vivo - subject sex",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-SUBJECT_SEX",
-			"variable": "MI-R1.3-ABSTRACT-TOX-SUBJECT_SEX",
+			"mi_id": "MI-R1.3-GENERIC-TOX-SUBJECT_SEX",
+			"variable": "MI-R1.3-GENERIC-TOX-SUBJECT_SEX",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_SEX",
@@ -361,8 +361,8 @@
 		{
 			"name": "in vivo - subject strain",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-SUBJECT_STRAIN",
-			"variable": "MI-R1.3-ABSTRACT-TOX-SUBJECT_STRAIN",
+			"mi_id": "MI-R1.3-GENERIC-TOX-SUBJECT_STRAIN",
+			"variable": "MI-R1.3-GENERIC-TOX-SUBJECT_STRAIN",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_STRAIN",
@@ -372,8 +372,8 @@
 		{
 			"name": "in vitro - passage number",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-PASSAGE_NUMBER",
-			"variable": "MI-R1.3-ABSTRACT-TOX-PASSAGE_NUMBER",
+			"mi_id": "MI-R1.3-GENERIC-TOX-PASSAGE_NUMBER",
+			"variable": "MI-R1.3-GENERIC-TOX-PASSAGE_NUMBER",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_PASSAGE_NUMBER",
@@ -383,8 +383,8 @@
 		{
 			"name": "in vitro - cell mycoplasma testing",
 			"group": "tox",
-			"mi_id": "MI-R1.3-ABSTRACT-TOX-MYCOPLASMA_TESTING",
-			"variable": "MI-R1.3-ABSTRACT-TOX-MYCOPLASMA_TESTING",
+			"mi_id": "MI-R1.3-GENERIC-TOX-MYCOPLASMA_TESTING",
+			"variable": "MI-R1.3-GENERIC-TOX-MYCOPLASMA_TESTING",
 			"url": "https://github.com/NSDRA/nsdra-maturity-indicators/blob/main/generic/README.md",
 			"related_mi": [
 				"MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_MYCOPLASMA_TESTING",
