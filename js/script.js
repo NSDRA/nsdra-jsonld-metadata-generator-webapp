@@ -2,6 +2,7 @@ var lists = "";
 var miList = "";
 var miMapping = "";
 var miMap = new Map();
+var miMapPropertyId = new Map();
 var seed = "12345";
 
 function updateChangeListeners(){
@@ -15,16 +16,12 @@ function updateChangeListeners(){
             currentCheckbox = this;
 
             if (this.checked) {
-
-                if(jsonObj.hasOwnProperty("variableMeasured")){
-                    jsonObj.variableMeasured.push({"@type": "schema:PropertyValue", "name": miMap.get(this.id)});
-                }else{
+                if(!jsonObj.hasOwnProperty("variableMeasured")){
                     jsonObj.variableMeasured = [];
-                    jsonObj.variableMeasured.push({"@type": "schema:PropertyValue", "name": miMap.get(this.id)});
                 }
+                jsonObj.variableMeasured.push({"@type": "schema:PropertyValue", "propertyID": miMapPropertyId.get(this.id), "name": miMap.get(this.id)});
 
             } else {
-
                 jsonObj.variableMeasured.forEach(function (element, index) {
                     if(element.name === miMap.get(currentCheckbox.id)){
                         jsonObj.variableMeasured.splice(index,1);
@@ -97,6 +94,7 @@ function updateClickListeners(){
         		</div>
                 `;
                 miMap.set(hash+'-name',miMapping[i].variable);
+		miMapPropertyId.set(hash+'-name',miMapping[i].propertyID);
             }
             updateChangeListeners();
 
@@ -153,11 +151,11 @@ async function fetchTextAsList() {
        miMap.set(hash+'-name',miList[i].variable);
     }
 	
-	let mappingResponse = await fetch("mapping.json");
+    let mappingResponse = await fetch("mapping.json");
     mapping = await mappingResponse.json();
     miMapping = mapping.lists[0]["maturity indicators"];
 	
-	updateChangeListeners();
+    updateChangeListeners();
     updateClickListeners();
 }
 fetchTextAsList();
