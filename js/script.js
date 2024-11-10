@@ -74,6 +74,7 @@ function updateClickListeners(){
         		</div>
                 `;
                miMap.set(hash+'-name',miList[i].variable);
+	       miMapPropertyId.set(hash+'-name',miList[i].propertyID);
             }
 			
             for(i = 0 ; i < miMapping.length; i++){
@@ -94,7 +95,6 @@ function updateClickListeners(){
         		</div>
                 `;
                 miMap.set(hash+'-name',miMapping[i].variable);
-		miMapPropertyId.set(hash+'-name',miMapping[i].propertyID);
             }
             updateChangeListeners();
 
