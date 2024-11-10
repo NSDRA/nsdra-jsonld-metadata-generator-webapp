@@ -4,7 +4,7 @@
             "reference id": {
                 "SHA-256": "75ec3968ccf87d4a5cc07189ab4f688f9fab032f2d54e9899aacb4389a818962",
                 "type": "DOI",
-                "URL": "https://doi.org/10.1021/acsnano.5b03496"
+				"url": "https://doi.org/10.1021/acsnano.5b03496",
             },
             "title": "Where Are We Heading in Nanotechnology Environmental Health and Safety and Materials Characterization?"
         },
@@ -12,97 +12,116 @@
             {
                 "name": "The bandgap in semiconductor particles is reported by the nano toxicity study",
                 "variable": "bandgap",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EMERGENT_BANDGAP_SEMINCONDUCTOR.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_BANDGAP_SEMINCONDUCTOR.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_BANDGAP_SEMINCONDUCTOR.md",
             },
             {
                 "name": "The nanomaterial's catalytic effect is reported by the nano toxicity study",
                 "variable": "catalytic effect",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EMERGENT_CATALYTIC_EFFECTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_CATALYTIC_EFFECTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_CATALYTIC_EFFECTS.md",
             },
             {
                 "name": "The presence of cationic particles with a proton sponge effect is reported by the nano toxicity study",
                 "variable": "cationic particles with a proton sponge effect",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EMERGENT_CATION_SPONGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_CATION_SPONGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_CATION_SPONGE.md",
             },
             {
                 "name": "The nanomaterial's compartmentalized toxicity is reported by the nano toxicity study",
                 "variable": "compartmentalized toxicity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EMERGENT_COMPARTMENTALIZED_TOXICITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_COMPARTMENTALIZED_TOXICITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_COMPARTMENTALIZED_TOXICITY.md",
             },
             {
                 "name": "The long aspect ratio injury to lysosomes is reported by the nano toxicity study",
                 "variable": "long aspect ratio injury to lysosomes",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EMERGENT_LAR_LYSOSOMES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_LAR_LYSOSOMES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_LAR_LYSOSOMES.md",
             },
             {
                 "name": "The presence of silica siloxane rings and silanols is reported by the nano toxicity study",
                 "variable": "silica siloxane rings and silanols",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EMERGENT_SILOXANE_SILANOLS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_SILOXANE_SILANOLS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EMERGENT_SILOXANE_SILANOLS.md",
             },
             {
                 "name": "The nanomaterial's charge (electrophoretic mobility and zeta-potential) is reported by the nano toxicity study",
                 "variable": "charge",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EXTRINSIC_CHARGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_CHARGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_CHARGE.md",
             },
             {
                 "name": "The nanomaterial's corona is reported by the nano toxicity study",
                 "variable": "corona",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EXTRINSIC_CORONA.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_CORONA.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_CORONA.md",
             },
             {
                 "name": "The nanomaterial's dissolution is reported by the nano toxicity study",
                 "variable": "dissolution",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EXTRINSIC_DISSOLUTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_DISSOLUTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_DISSOLUTION.md",
             },
             {
                 "name": "The nanomaterial's sorption is reported by the nano toxicity study",
                 "variable": "sorption",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EXTRINSIC_SORPTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_SORPTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_SORPTION.md",
             },
             {
                 "name": "The nanomaterial's state of agglomeration is reported by the nano toxicity study",
                 "variable": "agglomeration state",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EXTRINSIC_STATE_OF_AGGLOMERATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_STATE_OF_AGGLOMERATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_STATE_OF_AGGLOMERATION.md",
             },
             {
                 "name": "The nanomaterial's surface reconstruction is reported by the nano toxicity study",
                 "variable": "surface reconstruction",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-EXTRINSIC_SURFACE_RECONSTRUCTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_SURFACE_RECONSTRUCTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-EXTRINSIC_SURFACE_RECONSTRUCTION.md",
             },
             {
                 "name": "The nanomaterial's chemical composition is reported by the nano toxicity study",
                 "variable": "chemical composition",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-INTRINSIC_CHEMICAL_COMPOSITION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_CHEMICAL_COMPOSITION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_CHEMICAL_COMPOSITION.md",
             },
             {
                 "name": "The nanomaterial's crystallinity (crystal structure) is reported by the nano toxicity study",
                 "variable": "crystallinity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-INTRINSIC_CRYSTALLINITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_CRYSTALLINITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_CRYSTALLINITY.md",
             },
             {
                 "name": "The nanomaterial's purity is reported by the nano toxicity study",
                 "variable": "purity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-INTRINSIC_PURITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_PURITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_PURITY.md",
             },
             {
                 "name": "The nanomaterial's shape is reported by the nano toxicity study",
                 "variable": "shape",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-INTRINSIC_SHAPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SHAPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SHAPE.md",
             },
             {
                 "name": "The nanomaterial's size distribution is reported by the nano toxicity study",
                 "variable": "size distribution",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-INTRINSIC_SIZE_DISTRIBUTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SIZE_DISTRIBUTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SIZE_DISTRIBUTION.md",
             },
             {
                 "name": "The nanomaterial's surface area is reported by the nano toxicity study",
                 "variable": "surface area",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_AREA.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_AREA.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_AREA.md",
             },
             {
                 "name": "The nanomaterial's surface coatings is reported by the nano toxicity study",
                 "variable": "surface coatings",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/01-75ec3968cc/MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_COATINGS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_COATINGS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-75ec3968cc-INTRINSIC_SURFACE_COATINGS.md",
             }
         ],
         "id": "75ec3968cc",
@@ -113,7 +132,7 @@
             "reference id": {
                 "SHA-256": "649848907b45d263f45d575956387ac4d87cba2720364ebfdeb75d660b4bed5e",
                 "type": "DOI",
-                "URL": "https://doi.org/10.1039/C6EN00136J"
+				"url": "https://doi.org/10.1039/C6EN00136J",
             },
             "title": "Guidance to improve the scientific value of zeta potential measurements in nanoEHS"
         },
@@ -121,92 +140,110 @@
             {
                 "name": "The Electrophoretic mobility is reported by the nano toxicity study",
                 "variable": "electrophoretic mobility",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-EP_MOBILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-EP_MOBILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-EP_MOBILITY.md",
             },
             {
                 "name": "The number of measurements made and averaged to determine each zeta-potential is reported by the nano toxicity study",
                 "variable": "number of measurements",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEASUREMENT_NUMBER.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_NUMBER.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_NUMBER.md",
             },
             {
                 "name": "The total number of replicate measurements is reported by the nano toxicity study",
                 "variable": "number of replicates",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEASUREMENT_REPLICATES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_REPLICATES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_REPLICATES.md",
             },
             {
                 "name": "The observed trends in replicate measurements is reported by the nano toxicity study",
                 "variable": "observed trends",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEASUREMENT_TRENDS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_TRENDS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_TRENDS.md",
             },
             {
                 "name": "The measurement parameter \"applied voltage\" is reported by the nano toxicity study",
                 "variable": "applied voltage",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEASUREMENT_VOLTAGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_VOLTAGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEASUREMENT_VOLTAGE.md",
             },
             {
                 "name": "The media dependent factor \"ionic composition\" is reported by the nano toxicity study",
                 "variable": "media ionic composition",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_IONIC_COMPOSITION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_IONIC_COMPOSITION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_IONIC_COMPOSITION.md",
             },
             {
                 "name": "The media dependent factor \"ionic strength\" is reported by the nano toxicity study",
                 "variable": "media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "Macromolecules/NOM present in the medium and their concentration are reported by the nano toxicity study",
                 "variable": "media macromolecules",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_MACROMOLECULES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_MACROMOLECULES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_MACROMOLECULES.md",
             },
             {
                 "name": "The nanomaterial concentration in the media is reported by the nano toxicity study",
                 "variable": "media nanomaterial concentration",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_NM_CONCENTRATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_NM_CONCENTRATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_NM_CONCENTRATION.md",
             },
             {
                 "name": "The pH of the media is reported by the nano toxicity study",
                 "variable": "media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_PH.md",
             },
             {
                 "name": "The media dependent factor \"conductance\" is reported by the nano toxicity study",
                 "variable": "media specific conductance",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_SPECIFIC_CONDUCTANCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_SPECIFIC_CONDUCTANCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_SPECIFIC_CONDUCTANCE.md",
             },
             {
                 "name": "The temperature of the media is reported by the nano toxicity study",
                 "variable": "media temperature",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_TEMPERATURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_TEMPERATURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_TEMPERATURE.md",
             },
             {
                 "name": "The viscosity of the media is reported by the nano toxicity study",
                 "variable": "media viscosity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MEDIA_VISCOSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_VISCOSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MEDIA_VISCOSITY.md",
             },
             {
                 "name": "The model used to compute the zeta-potential is reported by the nano toxicity study",
                 "variable": "model",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-MODEL.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MODEL.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-MODEL.md",
             },
             {
                 "name": "The composition is reported by the nano toxicity study",
                 "variable": "composition",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-NM_COMPOSITION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_COMPOSITION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_COMPOSITION.md",
             },
             {
                 "name": "The shape is reported by the nano toxicity study",
                 "variable": "shape",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-NM_SHAPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_SHAPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_SHAPE.md",
             },
             {
                 "name": "The size distribution is reported by the nano toxicity study",
                 "variable": "size distribution",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-NM_SIZE_DISTRIBUTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_SIZE_DISTRIBUTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_SIZE_DISTRIBUTION.md",
             },
             {
                 "name": "The surface functionalization is reported by the nano toxicity study",
                 "variable": "surface functionalization",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/02-649848907b/MI-R1.3-649848907b-NM_SURFACE_FUNCTIONALIZATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_SURFACE_FUNCTIONALIZATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-649848907b-NM_SURFACE_FUNCTIONALIZATION.md",
             }
         ],
         "id": "649848907b",
@@ -217,7 +254,7 @@
             "reference id": {
                 "SHA-256": "88b52fa7b80a4734a28814e926adc9f6d51bff9aa5cece8c779e06302dc621ea",
                 "type": "DOI",
-                "URL": "https://doi.org/10.3390/nano10102033"
+				"url": "https://doi.org/10.3390/nano10102033",
             },
             "title": "Metadata Stewardship in Nanosafety Research: Community-Driven Organization of Metadata Schemas to Support FAIR NanoScience Data"
         },
@@ -225,187 +262,224 @@
             {
                 "name": "The agglomerate aspect ratio is reported by the nano toxicity study",
                 "variable": "agglomerate aspect ratio",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_ASPECT_RATIO.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_ASPECT_RATIO.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_ASPECT_RATIO.md",
             },
             {
                 "name": "The agglomerate effective density is reported by the nano toxicity study",
                 "variable": "agglomerate effective density",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_EFFECTIVE_DENSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_EFFECTIVE_DENSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_EFFECTIVE_DENSITY.md",
             },
             {
                 "name": "The agglomerate packing factor is reported by the nano toxicity study",
                 "variable": "agglomerate packing factor",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_PACKING_FACTOR.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_PACKING_FACTOR.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_PACKING_FACTOR.md",
             },
             {
                 "name": "The agglomerate packing method is reported by the nano toxicity study",
                 "variable": "agglomerate packing method",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_PACKING_METHOD.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_PACKING_METHOD.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_PACKING_METHOD.md",
             },
             {
                 "name": "The agglomerate polydispersity is reported by the nano toxicity study",
                 "variable": "agglomerate polydispersity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_POLYDISPERSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_POLYDISPERSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_POLYDISPERSITY.md",
             },
             {
                 "name": "The agglomerate shape is reported by the nano toxicity study",
                 "variable": "agglomerate shape",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_SHAPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SHAPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SHAPE.md",
             },
             {
                 "name": "The agglomerate size diameter is reported by the nano toxicity study",
                 "variable": "agglomerate size diameter",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_DIAMETER.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_DIAMETER.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_DIAMETER.md",
             },
             {
                 "name": "The agglomerate size statistical measure is reported by the nano toxicity study",
                 "variable": "agglomerate size statistical measure",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_MEASURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_MEASURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_MEASURE.md",
             },
             {
                 "name": "The agglomerate size determination method is reported by the nano toxicity study",
                 "variable": "agglomerate size determination method",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_METHOD.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_METHOD.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_METHOD.md",
             },
             {
                 "name": "The agglomerate size qualifier is reported by the nano toxicity study",
                 "variable": "agglomerate size qualifier",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_QUALIFIER.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_QUALIFIER.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_SIZE_QUALIFIER.md",
             },
             {
                 "name": "The agglomerate stability is reported by the nano toxicity study",
                 "variable": "agglomerate stability",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-AGGLOMERATE_STABILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_STABILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-AGGLOMERATE_STABILITY.md",
             },
             {
                 "name": "The experiment administrated dose is reported by the nano toxicity study",
                 "variable": "experiment administrated dose",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_ADMINISTRATED_DOSE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_ADMINISTRATED_DOSE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_ADMINISTRATED_DOSE.md",
             },
             {
                 "name": "The experiment delivered dose is reported by the nano toxicity study",
                 "variable": "experiment delivered dose",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_DELIVERED_DOSE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_DELIVERED_DOSE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_DELIVERED_DOSE.md",
             },
             {
                 "name": "The experiment dispersion protocol is reported by the nano toxicity study",
                 "variable": "experiment dispersion protocol",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_DISPERSION_PROTOCOL.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_DISPERSION_PROTOCOL.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_DISPERSION_PROTOCOL.md",
             },
             {
                 "name": "The experiment exposure time is reported by the nano toxicity study",
                 "variable": "experiment exposure time",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_EXPOSURE_TIME.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_EXPOSURE_TIME.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_EXPOSURE_TIME.md",
             },
             {
                 "name": "The experiment medium density is reported by the nano toxicity study",
                 "variable": "experiment medium density",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_DENSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_DENSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_DENSITY.md",
             },
             {
                 "name": "The experiment medium dish depth is reported by the nano toxicity study",
                 "variable": "experiment medium dish depth",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_DISH_DEPTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_DISH_DEPTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_DISH_DEPTH.md",
             },
             {
                 "name": "The experiment medium temprature is reported by the nano toxicity study",
                 "variable": "experiment medium temprature",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_TEMPRATURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_TEMPRATURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_TEMPRATURE.md",
             },
             {
                 "name": "The experiment medium type is reported by the nano toxicity study",
                 "variable": "experiment medium type",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_TYPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_TYPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_TYPE.md",
             },
             {
                 "name": "The experiment medium viscosity is reported by the nano toxicity study",
                 "variable": "experiment medium viscosity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_VISCOSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_VISCOSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MEDIUM_VISCOSITY.md",
             },
             {
                 "name": "The experiment method is reported by the nano toxicity study",
                 "variable": "experiment method",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_METHOD.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_METHOD.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_METHOD.md",
             },
             {
                 "name": "The experiment model is reported by the nano toxicity study",
                 "variable": "experiment model",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_MODEL.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MODEL.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_MODEL.md",
             },
             {
                 "name": "The experiment tool name is reported by the nano toxicity study",
                 "variable": "experiment tool name",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_NAME.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_NAME.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_NAME.md",
             },
             {
                 "name": "The experiment tool reference is reported by the nano toxicity study",
                 "variable": "experiment tool reference",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_REFERENCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_REFERENCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_REFERENCE.md",
             },
             {
                 "name": "The experiment tool version is reported by the nano toxicity study",
                 "variable": "experiment tool version",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_VERSION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_VERSION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-EXPERIMENT_TOOL_VERSION.md",
             },
             {
                 "name": "The primary particle aspect ratio is reported by the nano toxicity study",
                 "variable": "primary particle aspect ratio",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_ASPECT_RATIO.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_ASPECT_RATIO.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_ASPECT_RATIO.md",
             },
             {
                 "name": "The primary particle density is reported by the nano toxicity study",
                 "variable": "primary particle density",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_DENSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_DENSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_DENSITY.md",
             },
             {
                 "name": "The primary particle dissolution rate is reported by the nano toxicity study",
                 "variable": "primary particle dissolution rate",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_DISSOLUTION_RATE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_DISSOLUTION_RATE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_DISSOLUTION_RATE.md",
             },
             {
                 "name": "The primary particle polydispersity is reported by the nano toxicity study",
                 "variable": "primary particle polydispersity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_POLYDISPERSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_POLYDISPERSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_POLYDISPERSITY.md",
             },
             {
                 "name": "The primary particle porosity is reported by the nano toxicity study",
                 "variable": "primary particle porosity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_POROSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_POROSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_POROSITY.md",
             },
             {
                 "name": "The primary particle shape is reported by the nano toxicity study",
                 "variable": "primary particle shape",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_SHAPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SHAPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SHAPE.md",
             },
             {
                 "name": "The primary particle diameter is reported by the nano toxicity study",
                 "variable": "primary particle diameter",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_DIAMETER.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_DIAMETER.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_DIAMETER.md",
             },
             {
                 "name": "The primary particle statistical measure is reported by the nano toxicity study",
                 "variable": "primary particle statistical measure",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_MEASURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_MEASURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_MEASURE.md",
             },
             {
                 "name": "The primary particle size determination method is reported by the nano toxicity study",
                 "variable": "primary particle size determination method",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_METHOD.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_METHOD.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_METHOD.md",
             },
             {
                 "name": "The primary particle size qualifier is reported by the nano toxicity study",
                 "variable": "primary particle size qualifier",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_QUALIFIER.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_QUALIFIER.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SIZE_QUALIFIER.md",
             },
             {
                 "name": "The primary particle surface charge is reported by the nano toxicity study",
                 "variable": "primary particle surface charge",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_SURFACE_CHARGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SURFACE_CHARGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SURFACE_CHARGE.md",
             },
             {
                 "name": "The primary particle synthesis protocol is reported by the nano toxicity study",
                 "variable": "primary particle synthesis protocol",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/03-88b52fa7b8/MI-R1.3-88b52fa7b8-PARTICLE_SYNTHESIS_PROTOCOL.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SYNTHESIS_PROTOCOL.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-88b52fa7b8-PARTICLE_SYNTHESIS_PROTOCOL.md",
             }
         ],
         "id": "88b52fa7b8",
@@ -416,7 +490,7 @@
             "reference id": {
                 "SHA-256": "faf3eea67a301b71aebf1649079be72c6ed0e155a837d8117719f6cb5068b58c",
                 "type": "DOI",
-                "URL": "https://doi.org/10.3109/17435391003775266"
+				"url": "https://doi.org/10.3109/17435391003775266",
             },
             "title": "Minimal analytical characterization of engineered nanomaterials needed for hazard assessment in biological matrices"
         },
@@ -424,52 +498,62 @@
             {
                 "name": "The agglomerate size is reported by the nano toxicity study",
                 "variable": "agglomerate size",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_AGGLOMERATE_SIZE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_AGGLOMERATE_SIZE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_AGGLOMERATE_SIZE.md",
             },
             {
                 "name": "The aspect ratio is reported by the nano toxicity study",
                 "variable": "aspect ratio",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_ASPECT_RATIO.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_ASPECT_RATIO.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_ASPECT_RATIO.md",
             },
             {
                 "name": "The chemical composition is reported by the nano toxicity study",
                 "variable": "chemical composition",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_CHEMICAL_COMPOSITION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_CHEMICAL_COMPOSITION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_CHEMICAL_COMPOSITION.md",
             },
             {
                 "name": "The purity is reported by the nano toxicity study",
                 "variable": "purity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_PURITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_PURITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_PURITY.md",
             },
             {
                 "name": "The size distribution is reported by the nano toxicity study",
                 "variable": "size distribution",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_SIZE_DISTRIBUTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SIZE_DISTRIBUTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SIZE_DISTRIBUTION.md",
             },
             {
                 "name": "The solubility is reported by the nano toxicity study",
                 "variable": "solubility",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_SOLUBILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SOLUBILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SOLUBILITY.md",
             },
             {
                 "name": "The surface area is reported by the nano toxicity study",
                 "variable": "surface area",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_SURFACE_AREA.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SURFACE_AREA.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SURFACE_AREA.md",
             },
             {
                 "name": "The surface charge is reported by the nano toxicity study",
                 "variable": "surface charge",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_SURFACE_CHARGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SURFACE_CHARGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_SURFACE_CHARGE.md",
             },
             {
                 "name": "The thermal stability is reported by the nano toxicity study",
                 "variable": "thermal stability",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_THERMAL_STABILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_THERMAL_STABILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_THERMAL_STABILITY.md",
             },
             {
                 "name": "The UV stability is reported by the nano toxicity study",
                 "variable": "UV stability",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/04-faf3eea67a/MI-R1.3-faf3eea67a-PCHEM_UV_STABILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_UV_STABILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-faf3eea67a-PCHEM_UV_STABILITY.md",
             }
         ],
         "id": "faf3eea67a",
@@ -480,7 +564,7 @@
             "reference id": {
                 "SHA-256": "99c4a218fe0ef63bbf79734c283d79423c3c45970af1d561abb0b310ffd10cd9",
                 "type": "DOI",
-                "URL": "https://doi.org/10.1039/C9EN00448C"
+				"url": "https://doi.org/10.1039/C9EN00448C",
             },
             "title": "Harmonizing Across Environmental Nanomaterial Testing Media for Increased Comparability of Nanomaterial Datasets"
         },
@@ -488,162 +572,194 @@
             {
                 "name": "The fluidity of the leaves (e.g. epicuticular wax) media (in air-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "leaves media fluidity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-AS_LEAVES_MEDIA_FLUIDITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_LEAVES_MEDIA_FLUIDITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_LEAVES_MEDIA_FLUIDITY.md",
             },
             {
                 "name": "The pH of the leaves (e.g. epicuticular wax) media (in air-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "leaves media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-AS_LEAVES_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_LEAVES_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_LEAVES_MEDIA_PH.md",
             },
             {
                 "name": "The  biological molecules (proteins) inthe simulated surface contact media (in air-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "simulated surface contact media proteins",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_BIO_MOLECULES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_BIO_MOLECULES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_BIO_MOLECULES.md",
             },
             {
                 "name": "The ionic strength of the simulated surface contact media (in air-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "simulated surface contact media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "The pH of the simulated surface contact media (in air-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "simulated surface contact media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-AS_SSC_MEDIA_PH.md",
             },
             {
                 "name": "The usage of enzymes or other additived with the artificial lysosomal fluid media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "artificial lysosomal fluid media additives",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_ADDITIVES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_ADDITIVES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_ADDITIVES.md",
             },
             {
                 "name": "The ionic strength of the artificial lysosomal fluid media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "artificial lysosomal fluid media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "The pH of the artificial lysosomal fluid media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "artificial lysosomal fluid media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_ALF_MEDIA_PH.md",
             },
             {
                 "name": "The DOC (Dissolved Organic Carbon) concentration inthe aquatic organism culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "aquatic organism media DOC",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_DOC.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_DOC.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_DOC.md",
             },
             {
                 "name": "The ionic strength of the aquatic organism culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "aquatic organism media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "The major anions of the aquatic organism culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "aquatic organism media major anions",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_MAJOR_ANIONS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_MAJOR_ANIONS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_MAJOR_ANIONS.md",
             },
             {
                 "name": "The major cations of the aquatic organism culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "aquatic organism media major cations",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_MAJOR_CATIONS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_MAJOR_CATIONS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_MAJOR_CATIONS.md",
             },
             {
                 "name": "The pH of the aquatic organism culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "aquatic organism media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_AQUA_MEDIA_PH.md",
             },
             {
                 "name": "The ionic content of the mammalian culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "mammalian media ionic content",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_IONIC_CONTENT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_IONIC_CONTENT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_IONIC_CONTENT.md",
             },
             {
                 "name": "The ionic strength of the mammalian culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "mammalian media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "The pH of the mammalian culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "mammalian media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_PH.md",
             },
             {
                 "name": "The serum of the mammalian culture media (in liquid-surface exposure scenarios) status (heat activated or not) is reported by the nano toxicity study",
                 "variable": "mammalian media serum heat inactivated",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_HEAT_INACTIVATED.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_HEAT_INACTIVATED.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_HEAT_INACTIVATED.md",
             },
             {
                 "name": "The serum percentage of the mammalian culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "mammalian media serum percentage",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_PERCENTAGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_PERCENTAGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_PERCENTAGE.md",
             },
             {
                 "name": "The serum source of the mammalian culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "mammalian media serum source",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_SOURCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_SOURCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MAM_MEDIA_SERUM_SOURCE.md",
             },
             {
                 "name": "The ionic strength of the microbial culture media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "microbial media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MICROBIAL_MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MICROBIAL_MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MICROBIAL_MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "The pH of the microbial media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "microbial media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_MICROBIAL_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MICROBIAL_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_MICROBIAL_MEDIA_PH.md",
             },
             {
                 "name": "The ionic strength of the plant transport mimics media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "plant transport mimics media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_PTM_MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_PTM_MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_PTM_MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "The pH of the plant transport mimics media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "plant transport mimics media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_PTM_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_PTM_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_PTM_MEDIA_PH.md",
             },
             {
                 "name": "The water extractable elements (Si, Ca, Mg, Fe, Al, Mn) of the rhizosomal system (in liquid-surface exposure scenarios) is reported by the nano toxicity study.",
                 "variable": "rhizosomal system extractable elements",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_EXTRACTABLE_ELEMENTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_EXTRACTABLE_ELEMENTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_EXTRACTABLE_ELEMENTS.md",
             },
             {
                 "name": "The redox potential of the rhizosomal system (in liquid-surface exposure scenarios) is reported by the nano toxicity study.",
                 "variable": "rhizosomal system redox potential",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_REDOX_POTENTIAL.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_REDOX_POTENTIAL.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_REDOX_POTENTIAL.md",
             },
             {
                 "name": "The soil pH of the rhizosomal system (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "rhizosomal system soil pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_SOIL_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_SOIL_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_SOIL_PH.md",
             },
             {
                 "name": "The specific conductance of the rhizosomal system (in liquid-surface exposure scenarios) is reported by the nano toxicity study.",
                 "variable": "rhizosomal system specific conductance",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_SPECIFIC_CONDUCTANCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_SPECIFIC_CONDUCTANCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_SPECIFIC_CONDUCTANCE.md",
             },
             {
                 "name": "The texture of the rhizosomal system (in liquid-surface exposure scenarios) is reported by the nano toxicity study.",
                 "variable": "rhizosomal system texture",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_TEXTURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_TEXTURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_TEXTURE.md",
             },
             {
                 "name": "The TOC (total organic carbon) of the rhizosomal system (in liquid-surface exposure scenarios) is reported by the nano toxicity study.",
                 "variable": "rhizosomal system TOC",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_TOC.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_TOC.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_RHIZOSOMAL_TOC.md",
             },
             {
                 "name": "The usage of enzymes or other additived with the simulated digestive fluids media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "simulated digestive fluids media additives",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_ADDITIVES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_ADDITIVES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_ADDITIVES.md",
             },
             {
                 "name": "The ionic strength of the simulated digestive fluids media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "simulated digestive fluids media ionic strength",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_IONIC_STRENGTH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_IONIC_STRENGTH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_IONIC_STRENGTH.md",
             },
             {
                 "name": "The pH of the simulated digestive fluids media (in liquid-surface exposure scenarios) is reported by the nano toxicity study",
                 "variable": "simulated digestive fluids media pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/05-99c4a218fe/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-99c4a218fe-LS_SDF_MEDIA_PH.md",
             }
         ],
         "id": "99c4a218fe",
@@ -654,7 +770,7 @@
             "reference id": {
                 "SHA-256": "324358ad68fcc5a7824b5477be3ba3a7341322d2cd188e6509349847437039b8",
                 "type": "DOI",
-                "URL": "https://doi.org/10.1016/j.nantod.2019.06.004"
+				"url": "https://doi.org/10.1016/j.nantod.2019.06.004",
             },
             "title": "Best practice in reporting corona studies: minimum information about Nanomaterial Biocorona Experiments (MINBE)"
         },
@@ -662,142 +778,170 @@
             {
                 "name": "The aggregation state information is reported by the nano toxicity study",
                 "variable": "aggregation state",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-AGGREGATION_STATE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-AGGREGATION_STATE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-AGGREGATION_STATE.md",
             },
             {
                 "name": "The collection approach information is reported by the nano toxicity study",
                 "variable": "collection approach",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-COLLECTION_APPROACH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-COLLECTION_APPROACH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-COLLECTION_APPROACH.md",
             },
             {
                 "name": "The collection organism information is reported by the nano toxicity study",
                 "variable": "collection organisms",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-COLLECTION_ORGANISMS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-COLLECTION_ORGANISMS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-COLLECTION_ORGANISMS.md",
             },
             {
                 "name": "The dosimetrics information is reported by the nano toxicity study",
                 "variable": "dosimetrics",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-DOSIMETRICS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-DOSIMETRICS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-DOSIMETRICS.md",
             },
             {
                 "name": "The processing information is reported by the nano toxicity study",
                 "variable": "processing",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-PROCESSING.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-PROCESSING.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-PROCESSING.md",
             },
             {
                 "name": "The provenance information is reported by the nano toxicity study",
                 "variable": "provenance",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-PROVENANCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-PROVENANCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-PROVENANCE.md",
             },
             {
                 "name": "The replicates information is reported by the nano toxicity study",
                 "variable": "replicates",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-REPLICATES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-REPLICATES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-REPLICATES.md",
             },
             {
                 "name": "The sample conditions information is reported by the nano toxicity study",
                 "variable": "sample conditions",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-SAMPLE_CONDITIONS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-SAMPLE_CONDITIONS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-SAMPLE_CONDITIONS.md",
             },
             {
                 "name": "The storage information is reported by the nano toxicity study",
                 "variable": "storage",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-STORAGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-STORAGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-STORAGE.md",
             },
             {
                 "name": "The surface chemistry information is reported by the nano toxicity study",
                 "variable": "surface chemistry",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-SURFACE_CHEMISTRY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-SURFACE_CHEMISTRY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-SURFACE_CHEMISTRY.md",
             },
             {
                 "name": "The synthesized properties information is reported by the nano toxicity study",
                 "variable": "synthesized properties",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-I-SYNTHESIZED_PROPERTIES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-SYNTHESIZED_PROPERTIES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-I-SYNTHESIZED_PROPERTIES.md",
             },
             {
                 "name": "The corona separation information is reported by the nano toxicity study",
                 "variable": "corona separation",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-II-CORONA_SEPARATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-II-CORONA_SEPARATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-II-CORONA_SEPARATION.md",
             },
             {
                 "name": "The protein digestion information is reported by the nano toxicity study",
                 "variable": "protein digestion",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-II-PROTEIN_DIGESTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-II-PROTEIN_DIGESTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-II-PROTEIN_DIGESTION.md",
             },
             {
                 "name": "The sample cleanup information is reported by the nano toxicity study",
                 "variable": "sample cleanup",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-II-SAMPLE_CLEANUP.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-II-SAMPLE_CLEANUP.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-II-SAMPLE_CLEANUP.md",
             },
             {
                 "name": "The fragmentation method information is reported by the nano toxicity study",
                 "variable": "fragmentation method",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-FRAGMENTATION_METHOD.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-FRAGMENTATION_METHOD.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-FRAGMENTATION_METHOD.md",
             },
             {
                 "name": "The injection volume information is reported by the nano toxicity study",
                 "variable": "injection volume",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-INJECTION_VOLUME.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-INJECTION_VOLUME.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-INJECTION_VOLUME.md",
             },
             {
                 "name": "The LC column information is reported by the nano toxicity study",
                 "variable": "LC column",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-LC_COLUMN.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_COLUMN.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_COLUMN.md",
             },
             {
                 "name": "The LC gradient information is reported by the nano toxicity study",
                 "variable": "LC gradient",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-LC_GRADIENT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_GRADIENT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_GRADIENT.md",
             },
             {
                 "name": "The LC platform information is reported by the nano toxicity study",
                 "variable": "LC platform",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-LC_PLATFORM.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_PLATFORM.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_PLATFORM.md",
             },
             {
                 "name": "The LC solvents information is reported by the nano toxicity study",
                 "variable": "LC solvents",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-LC_SOLVENTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_SOLVENTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-LC_SOLVENTS.md",
             },
             {
                 "name": "The MS/MS platform information is reported by the nano toxicity study",
                 "variable": "MS/MS platform",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-MSMS_PLATFORM.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-MSMS_PLATFORM.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-MSMS_PLATFORM.md",
             },
             {
                 "name": "The MS mass analyzer settings information is reported by the nano toxicity study",
                 "variable": "MS mass analyzer settings",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-MS_ANALYZER_SETTINGS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-MS_ANALYZER_SETTINGS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-MS_ANALYZER_SETTINGS.md",
             },
             {
                 "name": "The MS source settings information is reported by the nano toxicity study",
                 "variable": "MS source settings",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-III-MS_SOURCE_SETTINGS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-MS_SOURCE_SETTINGS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-III-MS_SOURCE_SETTINGS.md",
             },
             {
                 "name": "The accession number is reported by the nano toxicity study",
                 "variable": "accession number",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-IV-ACCESSION_NUMBER.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-ACCESSION_NUMBER.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-ACCESSION_NUMBER.md",
             },
             {
                 "name": "The database information is reported by the nano toxicity study",
                 "variable": "database",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-IV-DATABASE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-DATABASE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-DATABASE.md",
             },
             {
                 "name": "The protein identification confidence information is reported by the nano toxicity study",
                 "variable": "protein identification confidence",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-IV-PROTEIN_IDENT_CONFIDENCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-PROTEIN_IDENT_CONFIDENCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-PROTEIN_IDENT_CONFIDENCE.md",
             },
             {
                 "name": "The quantification information is reported by the nano toxicity study",
                 "variable": "quantification",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-IV-QUANTIFICATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-QUANTIFICATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-QUANTIFICATION.md",
             },
             {
                 "name": "The validation information is reported by the nano toxicity study",
                 "variable": "validation",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/06-324358ad68/MI-R1.3-324358ad68-IV-VALIDATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-VALIDATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-324358ad68-IV-VALIDATION.md",
             }
         ],
         "id": "324358ad68",
@@ -808,7 +952,7 @@
             "reference id": {
                 "SHA-256": "1582738113760cdc93c642ce4d6997e30467d02b5ee283a4413f434daa90667a",
                 "type": "Website",
-                "URL": "https://unece.org/DAM/trans/danger/publi/ghs/ghs_rev07/English/01e_part1.pdf"
+				"url": "https://unece.org/DAM/trans/danger/publi/ghs/ghs_rev07/English/01e_part1.pdf",
             },
             "title": "Globally Harmonized System of Classification and Labeling of Chemicals (GHS), UNECE"
         },
@@ -816,97 +960,116 @@
             {
                 "name": "The auto-ignition temperature is reported by the nano toxicity study",
                 "variable": "auto-ignition temperature",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-AUTOIGNITION_TEMPERATURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-AUTOIGNITION_TEMPERATURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-AUTOIGNITION_TEMPERATURE.md",
             },
             {
                 "name": "The boiling point is reported by the nano toxicity study",
                 "variable": "boiling point",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-BOILING_POINT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-BOILING_POINT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-BOILING_POINT.md",
             },
             {
                 "name": "The color is reported by the nano toxicity study",
                 "variable": "color",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-COLOR.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-COLOR.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-COLOR.md",
             },
             {
                 "name": "The decomposition temperature is reported by the nano toxicity study",
                 "variable": "decomposition temperature",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-DECOMPOSITION_TEMPERATURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-DECOMPOSITION_TEMPERATURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-DECOMPOSITION_TEMPERATURE.md",
             },
             {
                 "name": "The density is reported by the nano toxicity study",
                 "variable": "density",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-DENSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-DENSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-DENSITY.md",
             },
             {
                 "name": "The flammability is reported by the nano toxicity study",
                 "variable": "flammability",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-FLAMMABILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FLAMMABILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FLAMMABILITY.md",
             },
             {
                 "name": "The flammability limit (lower and upper explosion limit) is reported by the nano toxicity study",
                 "variable": "flammability limit",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-FLAMMABILITY_LIMIT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FLAMMABILITY_LIMIT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FLAMMABILITY_LIMIT.md",
             },
             {
                 "name": "The flash point is reported by the nano toxicity study",
                 "variable": "flash point",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-FLASH_POINT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FLASH_POINT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FLASH_POINT.md",
             },
             {
                 "name": "The freezing point is reported by the nano toxicity study",
                 "variable": "freezing point",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-FREEZING_POINT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FREEZING_POINT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-FREEZING_POINT.md",
             },
             {
                 "name": "The kinematic viscosity is reported by the nano toxicity study",
                 "variable": "kinematic viscosity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-KINEMATIC_VISCOSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-KINEMATIC_VISCOSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-KINEMATIC_VISCOSITY.md",
             },
             {
                 "name": "The melting point is reported by the nano toxicity study",
                 "variable": "melting point",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-MELTING_POINT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-MELTING_POINT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-MELTING_POINT.md",
             },
             {
                 "name": "The odor is reported by the nano toxicity study",
                 "variable": "odor",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-ODOR.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-ODOR.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-ODOR.md",
             },
             {
                 "name": "The particle characteristics is reported by the nano toxicity study",
                 "variable": "particle characteristics",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-PARTICLE_CHARACTERISTICS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PARTICLE_CHARACTERISTICS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PARTICLE_CHARACTERISTICS.md",
             },
             {
                 "name": "The partition coefficient is reported by the nano toxicity study",
                 "variable": "partition coefficient",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-PARTITION_COEFFICIENT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PARTITION_COEFFICIENT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PARTITION_COEFFICIENT.md",
             },
             {
                 "name": "The pH is reported by the nano toxicity study",
                 "variable": "pH",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-PH.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PH.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PH.md",
             },
             {
                 "name": "The physical state is reported by the nano toxicity study",
                 "variable": "physical state",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-PHYSICAL_STATE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PHYSICAL_STATE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-PHYSICAL_STATE.md",
             },
             {
                 "name": "The relative vapour density is reported by the nano toxicity study",
                 "variable": "relative vapour density",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-RELATIVE_VAPOUR_DENSITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-RELATIVE_VAPOUR_DENSITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-RELATIVE_VAPOUR_DENSITY.md",
             },
             {
                 "name": "The solubility is reported by the nano toxicity study",
                 "variable": "solubility",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-SOLUBILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-SOLUBILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-SOLUBILITY.md",
             },
             {
                 "name": "The vapour pressure is reported by the nano toxicity study",
                 "variable": "vapour pressure",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/07-1582738113/MI-R1.3-1582738113-PCHEM-VAPOUR_PRESSURE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-VAPOUR_PRESSURE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1582738113-PCHEM-VAPOUR_PRESSURE.md",
             }
         ],
         "id": "1582738113",
@@ -917,7 +1080,7 @@
             "reference id": {
                 "SHA-256": "3ce932c4f97897b7094c84547e240afbf695c89898fba83bf408cb88762c05b3",
                 "type": "DOI",
-                "URL": "http://dx.doi.org/10.2147/IJN.S40722"
+				"url": "http://dx.doi.org/10.2147/IJN.S40722",
             },
             "title": "The Nanomaterial Registry: facilitating the sharing and analysis of data in the diverse nanomaterial community"
         },
@@ -925,62 +1088,74 @@
             {
                 "name": "The nanomaterial's agglomeration state is reported by the nano toxicity study",
                 "variable": "agglomeration state",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-AGGLOMERATION_STATE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-AGGLOMERATION_STATE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-AGGLOMERATION_STATE.md",
             },
             {
                 "name": "The nanomaterial's composition is reported by the nano toxicity study",
                 "variable": "composition",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-COMPOSITION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-COMPOSITION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-COMPOSITION.md",
             },
             {
                 "name": "The nanomaterial's purity is reported by the nano toxicity study",
                 "variable": "purity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-PURITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-PURITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-PURITY.md",
             },
             {
                 "name": "The nanomaterial's shape is reported by the nano toxicity study",
                 "variable": "shape",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SHAPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SHAPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SHAPE.md",
             },
             {
                 "name": "The nanomaterial's size is reported by the nano toxicity study",
                 "variable": "size",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SIZE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SIZE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SIZE.md",
             },
             {
                 "name": "The nanomaterial's size distribution is reported by the nano toxicity study",
                 "variable": "size distribution",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SIZE_DISTRIBUTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SIZE_DISTRIBUTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SIZE_DISTRIBUTION.md",
             },
             {
                 "name": "The nanomaterial's solubility is reported by the nano toxicity study",
                 "variable": "solubility",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SOLUBILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SOLUBILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SOLUBILITY.md",
             },
             {
                 "name": "The nanomaterial's stability is reported by the nano toxicity study",
                 "variable": "stability",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-STABILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-STABILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-STABILITY.md",
             },
             {
                 "name": "The nanomaterial's surface area is reported by the nano toxicity study",
                 "variable": "surface area",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SURFACE_AREA.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_AREA.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_AREA.md",
             },
             {
                 "name": "The nanomaterial's surface charge is reported by the nano toxicity study",
                 "variable": "surface charge",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SURFACE_CHARGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_CHARGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_CHARGE.md",
             },
             {
                 "name": "The nanomaterial's surface chemistry is reported by the nano toxicity study",
                 "variable": "surface chemistry",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SURFACE_CHEMISTRY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_CHEMISTRY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_CHEMISTRY.md",
             },
             {
                 "name": "The nanomaterial's surface reactivity is reported by the nano toxicity study",
                 "variable": "surface reactivity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/08-3ce932c4f9/MI-R1.3-3ce932c4f9-SURFACE_REACTIVITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_REACTIVITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-3ce932c4f9-SURFACE_REACTIVITY.md",
             }
         ],
         "id": "3ce932c4f9",
@@ -991,7 +1166,7 @@
             "reference id": {
                 "SHA-256": "7a4d616c6602ed527796691f2e5a46b064818cc978c376ff68e680b7cd3bc6b9",
                 "type": "Website",
-                "URL": "http://nanocalibrate.eu"
+				"url": "http://nanocalibrate.eu",
             },
             "title": "caLIBRAte nano risk governance quality criteria for data"
         },
@@ -999,187 +1174,224 @@
             {
                 "name": "The cell type is reported by the nano toxicity study",
                 "variable": "cell type",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_CELL_TYPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_CELL_TYPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_CELL_TYPE.md",
             },
             {
                 "name": "The culture type is reported by the nano toxicity study",
                 "variable": "culture type",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_CULTURE_TYPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_CULTURE_TYPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_CULTURE_TYPE.md",
             },
             {
                 "name": "Genotyping/authenticity is reported by the nano toxicity study",
                 "variable": "genotyping",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_GENOTYPING.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_GENOTYPING.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_GENOTYPING.md",
             },
             {
                 "name": "The growth rate/doubling time is reported by the nano toxicity study",
                 "variable": "growth rate",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_GROWTH_TYPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_GROWTH_TYPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_GROWTH_TYPE.md",
             },
             {
                 "name": "The morphological appearance is reported by the nano toxicity study",
                 "variable": "morphological appearance",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_MORPHOLOGICAL_APPEARANCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_MORPHOLOGICAL_APPEARANCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_MORPHOLOGICAL_APPEARANCE.md",
             },
             {
                 "name": "Mycoplasma testing is reported by the nano toxicity study",
                 "variable": "mycoplasma testing",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_MYCOPLASMA_TESTING.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_MYCOPLASMA_TESTING.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_MYCOPLASMA_TESTING.md",
             },
             {
                 "name": "The passage number is reported by the nano toxicity study",
                 "variable": "passage number",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_PASSAGE_NUMBER.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_PASSAGE_NUMBER.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VITRO_SUBJECT_PASSAGE_NUMBER.md",
             },
             {
                 "name": "The test subject's age is reported by the nano toxicity study",
                 "variable": "test subject age",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_AGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_AGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_AGE.md",
             },
             {
                 "name": "The test subject's body weight is reported by the nano toxicity study",
                 "variable": "test subject body weight",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_BODY_WEIGHT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_BODY_WEIGHT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_BODY_WEIGHT.md",
             },
             {
                 "name": "The test subject's housing and feed conditions are reported by the nano toxicity study",
                 "variable": "housing and feed conditions",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_HOUSING_FEED.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_HOUSING_FEED.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_HOUSING_FEED.md",
             },
             {
                 "name": "The test subject's sex is reported by the nano toxicity study",
                 "variable": "test subject sex",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_SEX.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_SEX.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_SEX.md",
             },
             {
                 "name": "The test subject's species is reported by the nano toxicity study",
                 "variable": "test subject species",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_SPECIES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_SPECIES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_SPECIES.md",
             },
             {
                 "name": "The test subject's strain is reported by the nano toxicity study",
                 "variable": "test subject strain",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_STRAIN.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_STRAIN.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VIVO_SUBJECT_STRAIN.md",
             },
             {
                 "name": "The type of assay is reported by the nano toxicity study",
                 "variable": "assay",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_ASSAY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_ASSAY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_ASSAY.md",
             },
             {
                 "name": "The negative/positive controls are is reported by the nano toxicity study",
                 "variable": "controls",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_CONTROLS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_CONTROLS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_CONTROLS.md",
             },
             {
                 "name": "The administered dose/concentration is reported by the nano toxicity study",
                 "variable": "dose",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_DOSE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_DOSE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_DOSE.md",
             },
             {
                 "name": "The expose time is reported by the nano toxicity study",
                 "variable": "expose time",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_EXPOSE_TIME.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_EXPOSE_TIME.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_EXPOSE_TIME.md",
             },
             {
                 "name": "The assessment of interference is reported by the nano toxicity study",
                 "variable": "assessment of interference",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_INTERFERENCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_INTERFERENCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_INTERFERENCE.md",
             },
             {
                 "name": "The experimental measurements are is reported by the nano toxicity study",
                 "variable": "experimental measurements",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_MEASUREMENTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_MEASUREMENTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_MEASUREMENTS.md",
             },
             {
                 "name": "The number of treatment groups is reported by the nano toxicity study",
                 "variable": "number of treatment groups",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_NUM_OF_GROUPS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_NUM_OF_GROUPS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_NUM_OF_GROUPS.md",
             },
             {
                 "name": "The number of test subjects is reported by the nano toxicity study",
                 "variable": "number of test subjects",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_NUM_OF_SUBJECTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_NUM_OF_SUBJECTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_NUM_OF_SUBJECTS.md",
             },
             {
                 "name": "The route of administration is reported by the nano toxicity study",
                 "variable": "route of administration",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_ROA.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_ROA.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_ROA.md",
             },
             {
                 "name": "The toxicological endpoint is reported by the nano toxicity study",
                 "variable": "toxicological endpoint",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_METHODS_TOX_ENDPOINT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_TOX_ENDPOINT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_METHODS_TOX_ENDPOINT.md",
             },
             {
                 "name": "Information on method of suspension is reported by the nano toxicity study",
                 "variable": "method of suspension",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_MOS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_MOS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_MOS.md",
             },
             {
                 "name": "The nanoparticle source/origin is reported by the nano toxicity study",
                 "variable": "nanoparticle source",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_NP_SOURCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_NP_SOURCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_NP_SOURCE.md",
             },
             {
                 "name": "The physicochemical characterization under biologically relevant conditions is reported by the nano toxicity study",
                 "variable": "physicochemical characterization",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_PCHEM.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_PCHEM.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-IN_VV_SUBSTANCE_PCHEM.md",
             },
             {
                 "name": "The nanomaterial's agglomeration state is reported by the nano toxicity study",
                 "variable": "agglomeration state",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_AGGLOMERATION_STATE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_AGGLOMERATION_STATE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_AGGLOMERATION_STATE.md",
             },
             {
                 "name": "The nanomaterial's composition is reported by the nano toxicity study",
                 "variable": "composition",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_COMPOSITION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_COMPOSITION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_COMPOSITION.md",
             },
             {
                 "name": "The nanomaterial's crystallinity is reported by the nano toxicity study",
                 "variable": "crystallinity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_CRYSTALLINITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_CRYSTALLINITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_CRYSTALLINITY.md",
             },
             {
                 "name": "The nanomaterial's purity is reported by the nano toxicity study",
                 "variable": "purity",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_PURITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_PURITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_PURITY.md",
             },
             {
                 "name": "The nanomaterial's shape is reported by the nano toxicity study",
                 "variable": "shape",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_SHAPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SHAPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SHAPE.md",
             },
             {
                 "name": "The nanomaterial's size is reported by the nano toxicity study",
                 "variable": "size",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_SIZE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SIZE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SIZE.md",
             },
             {
                 "name": "The nanomaterial's size distribution is reported by the nano toxicity study",
                 "variable": "size distribution",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_SIZE_DISTRIBUTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SIZE_DISTRIBUTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SIZE_DISTRIBUTION.md",
             },
             {
                 "name": "The nanomaterial's stability is reported by the nano toxicity study",
                 "variable": "stability",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_STABILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_STABILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_STABILITY.md",
             },
             {
                 "name": "The nanomaterial's surface area is reported by the nano toxicity study",
                 "variable": "surface area",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_SURFACE_AREA.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SURFACE_AREA.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SURFACE_AREA.md",
             },
             {
                 "name": "The nanomaterial's surface charge is reported by the nano toxicity study",
                 "variable": "surface charge",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_SURFACE_CHARGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SURFACE_CHARGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SURFACE_CHARGE.md",
             },
             {
                 "name": "The nanomaterial's surface chemistry is reported by the nano toxicity study",
                 "variable": "surface chemistry",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/09-7a4d616c66/MI-R1.3-7a4d616c66-PCHEM_SURFACE_CHEMISTRY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SURFACE_CHEMISTRY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-7a4d616c66-PCHEM_SURFACE_CHEMISTRY.md",
             }
         ],
         "id": "7a4d616c66",
@@ -1190,7 +1402,7 @@
             "reference id": {
                 "SHA-256": "57299b68d49654e043836acfbacaeff76900994227c8dcba53f4f04252f30978",
                 "type": "Website",
-                "URL": "https://riskgone.eu"
+				"url": "https://riskgone.eu",
             },
             "title": "RiskGONE toxicity risk assessment quality measures"
         },
@@ -1198,172 +1410,206 @@
             {
                 "name": "The administration method is reported by the nano toxicity study (in vitro)",
                 "variable": "administration method in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_ADMINISTRATION_METHOD.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_ADMINISTRATION_METHOD.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_ADMINISTRATION_METHOD.md",
             },
             {
                 "name": "The determination methods of the study endpoints are reported by the nano toxicity study (in vitro)",
                 "variable": "determination methods in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_DETERMINATION_METHODS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_DETERMINATION_METHODS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_DETERMINATION_METHODS.md",
             },
             {
                 "name": "The dose/concentration is reported by the nano toxicity study (in vitro)",
                 "variable": "dose in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_DOSE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_DOSE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_DOSE.md",
             },
             {
                 "name": "The results of the study endpoints are all reported by the nano toxicity study (in vitro)",
                 "variable": "endpoint results in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_ENDPOINT_RESULTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_ENDPOINT_RESULTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_ENDPOINT_RESULTS.md",
             },
             {
                 "name": "The exposure duration/time-points of observation are is reported by the nano toxicity study (in vitro)",
                 "variable": "exposure duration in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_EXPOSURE_DURATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_EXPOSURE_DURATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_EXPOSURE_DURATION.md",
             },
             {
                 "name": "The negative controls are reported by the nano toxicity study (in vitro)",
                 "variable": "negative controls in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_NEGATIVE_CONTROLS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_NEGATIVE_CONTROLS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_NEGATIVE_CONTROLS.md",
             },
             {
                 "name": "The number of replicates is reported by the nano toxicity study (in vitro)",
                 "variable": "number of replicates",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_NUMBER_OF_REPLICATES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_NUMBER_OF_REPLICATES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_NUMBER_OF_REPLICATES.md",
             },
             {
                 "name": "The positive controls are reported by the nano toxicity study (in vitro)",
                 "variable": "positive controls in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_POSITIVE_CONTROLS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_POSITIVE_CONTROLS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_POSITIVE_CONTROLS.md",
             },
             {
                 "name": "The statistical methods for data analysis are reported by the nano toxicity study (in vitro)",
                 "variable": "statistical methods in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_STATISTICAL_METHODS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_STATISTICAL_METHODS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_STATISTICAL_METHODS.md",
             },
             {
                 "name": "The test substance physiochemical characterization is reported by the nano toxicity study (in vitro)",
                 "variable": "test substance physiochemical characterization in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_CHARACTERIZATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_CHARACTERIZATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_CHARACTERIZATION.md",
             },
             {
                 "name": "The test substance identity is reported by the nano toxicity study (in vitro)",
                 "variable": "test substance identity in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_IDINTITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_IDINTITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_IDINTITY.md",
             },
             {
                 "name": "The test substance purity is reported by the nano toxicity study (in vitro)",
                 "variable": "test substance purity in-vitro",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_PURITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_PURITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_PURITY.md",
             },
             {
                 "name": "The test substance source is reported by the nano toxicity study (in vitro)",
                 "variable": "test substance source",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_SOURCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_SOURCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SUBSTANCE_SOURCE.md",
             },
             {
                 "name": "The test system description is reported by the nano toxicity study (in vitro)",
                 "variable": "test system description",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_DESCRIPTION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_DESCRIPTION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_DESCRIPTION.md",
             },
             {
                 "name": "The test system properties and conditions of cultivation and maintenance are reported by the nano toxicity study (in vitro)",
                 "variable": "test system properties",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_PROPERTIES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_PROPERTIES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_PROPERTIES.md",
             },
             {
                 "name": "The test system source is reported by the nano toxicity study (in vitro)",
                 "variable": "test system source",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_SOURCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_SOURCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VITRO_SYSTEM_SOURCE.md",
             },
             {
                 "name": "The administration method is reported by the nano toxicity study (in vivo)",
                 "variable": "administration method in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_ADMINISTRATION_METHOD.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ADMINISTRATION_METHOD.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ADMINISTRATION_METHOD.md",
             },
             {
                 "name": "The determination methods of the study endpoints are reported by the nano toxicity study (in vivo)",
                 "variable": "determination methods in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_DETERMINATION_METHODS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_DETERMINATION_METHODS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_DETERMINATION_METHODS.md",
             },
             {
                 "name": "The dose/concentration is reported by the nano toxicity study (in vivo)",
                 "variable": "dose in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_DOSE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_DOSE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_DOSE.md",
             },
             {
                 "name": "The results of the study endpoints are all reported by the nano toxicity study (in vivo)",
                 "variable": "endpoint results in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_ENDPOINT_RESULTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ENDPOINT_RESULTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ENDPOINT_RESULTS.md",
             },
             {
                 "name": "The exposure duration/time-points of observation are is reported by the nano toxicity study (in vivo)",
                 "variable": "exposure duration in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_EXPOSURE_DURATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_EXPOSURE_DURATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_EXPOSURE_DURATION.md",
             },
             {
                 "name": "The negative controls are reported by the nano toxicity study (in vivo)",
                 "variable": "negative controls in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_NEGATIVE_CONTROLS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_NEGATIVE_CONTROLS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_NEGATIVE_CONTROLS.md",
             },
             {
                 "name": "The number of subjects is reported by the nano toxicity study (in vivo)",
                 "variable": "number of subjects",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_NUMBER_OF_SUBJECTS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_NUMBER_OF_SUBJECTS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_NUMBER_OF_SUBJECTS.md",
             },
             {
                 "name": "The organism age is reported by the nano toxicity study (in vivo)",
                 "variable": "organism age",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_AGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_AGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_AGE.md",
             },
             {
                 "name": "The organism sex is reported by the nano toxicity study (in vivo)",
                 "variable": "organism sex",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_SEX.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_SEX.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_SEX.md",
             },
             {
                 "name": "The organism strain is reported by the nano toxicity study (in vivo)",
                 "variable": "organism strain",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_STRAIN.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_STRAIN.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_STRAIN.md",
             },
             {
                 "name": "The organism body weight is reported by the nano toxicity study (in vivo)",
                 "variable": "organism body weight",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_WEIGHT.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_WEIGHT.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_ORGANISM_WEIGHT.md",
             },
             {
                 "name": "The positive controls are reported by the nano toxicity study (in vivo)",
                 "variable": "positive controls",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_POSITIVE_CONTROLS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_POSITIVE_CONTROLS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_POSITIVE_CONTROLS.md",
             },
             {
                 "name": "The species is reported by the nano toxicity study (in vivo)",
                 "variable": "species",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_SPECIES.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SPECIES.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SPECIES.md",
             },
             {
                 "name": "The statistical methods for data analysis are reported by the nano toxicity study (in vivo)",
                 "variable": "statistical methods in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_STATISTICAL_METHODS.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_STATISTICAL_METHODS.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_STATISTICAL_METHODS.md",
             },
             {
                 "name": "The test substance physiochemical characterization is reported by the nano toxicity study (in vivo)",
                 "variable": "test substance physiochemical characterization in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_CHARACTERIZATION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_CHARACTERIZATION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_CHARACTERIZATION.md",
             },
             {
                 "name": "The test substance identity is reported by the nano toxicity study (in vivo)",
                 "variable": "test substance identity in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_IDINTITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_IDINTITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_IDINTITY.md",
             },
             {
                 "name": "The test substance purity is reported by the nano toxicity study (in vivo)",
                 "variable": "test substance purity in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_PURITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_PURITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_PURITY.md",
             },
             {
                 "name": "The test substance source is reported by the nano toxicity study (in vivo)",
                 "variable": "test substance source in-vivo",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/10-57299b68d4/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_SOURCE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_SOURCE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-57299b68d4-IN_VIVO_SUBSTANCE_SOURCE.md",
             }
         ],
         "id": "57299b68d4",
@@ -1374,7 +1620,7 @@
             "reference id": {
                 "SHA-256": "1fb3ef13d0c4b990a4815291225d02d3b87bb299393744ecdc43cd1d37da62a5",
                 "type": "Website",
-                "URL": "https://www.iso.org/standard/52334.html"
+				"url": "https://www.iso.org/standard/52334.html",
             },
             "title": "Nanotechnologies \u2014 Guidance on physio-chemical characterization of engineered Nano scale materials for toxicological assessment"
         },
@@ -1382,47 +1628,56 @@
             {
                 "name": "The agglomeration state is reported by the nano toxicity study",
                 "variable": "agglomeration state",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-AGGLOMERATION_STATE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-AGGLOMERATION_STATE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-AGGLOMERATION_STATE.md",
             },
             {
                 "name": "The composition is reported by the nano toxicity study",
                 "variable": "composition",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-COMPOSITION.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-COMPOSITION.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-COMPOSITION.md",
             },
             {
                 "name": "The dispersibility is reported by the nano toxicity study",
                 "variable": "dispersibility",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-DISPERSIBILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-DISPERSIBILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-DISPERSIBILITY.md",
             },
             {
                 "name": "The particle size is reported by the nano toxicity study",
                 "variable": "particle size",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-PARTICLE_SIZE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-PARTICLE_SIZE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-PARTICLE_SIZE.md",
             },
             {
                 "name": "The shape is reported by the nano toxicity study",
                 "variable": "shape",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-SHAPE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SHAPE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SHAPE.md",
             },
             {
                 "name": "The solubility is reported by the nano toxicity study",
                 "variable": "solubility",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-SOLUBILITY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SOLUBILITY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SOLUBILITY.md",
             },
             {
                 "name": "The surface area is reported by the nano toxicity study",
                 "variable": "surface area",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_AREA.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_AREA.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_AREA.md",
             },
             {
                 "name": "The surface charge is reported by the nano toxicity study",
                 "variable": "surface charge",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_CHARGE.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_CHARGE.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_CHARGE.md",
             },
             {
                 "name": "The surface chemistry is reported by the nano toxicity study",
                 "variable": "surface chemistry",
-                "url": "https://github.com/ammar257ammar/NanoMaturityIndicators/blob/main/11-1fb3ef13d0/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_CHEMISTRY.md"
+                "propertyID": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_CHEMISTRY.md",
+				"url": "https://w3id.org/nsdra/maturity-indicator/readme/MI-R1.3-1fb3ef13d0-PCHEM-SURFACE_CHEMISTRY.md",
             }
         ],
         "id": "1fb3ef13d0",
